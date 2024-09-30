@@ -1,4 +1,4 @@
-# Personal Finance Management System
+# SmartSaver
 
 A web application for managing personal finances, allowing users to track income, expenses, and budgets effectively.
 
