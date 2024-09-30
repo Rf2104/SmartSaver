@@ -11,7 +11,7 @@ A web application for managing personal finances, allowing users to track income
 
 ## Technologies
 
-- **Frontend:** JavaScript, [React.js/Next.js/Vue.js] (to be decided)
+- **Frontend:** TypeScript, Next.js
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL
 - **Containerization:** Docker
